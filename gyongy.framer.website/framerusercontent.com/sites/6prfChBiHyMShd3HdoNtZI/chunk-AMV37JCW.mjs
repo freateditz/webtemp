@@ -1,0 +1,2 @@
+function e(t,a){return{description:"Dive into my portfolio, explore my services and see how I blend aesthetics and functionality, creating intuitive designs for websites, applications, products and more.",favicon:"https://framerusercontent.com/assets/1CJQpQkBfkPLizsNQQgCUhDw3A.png",robots:"max-image-preview:large",socialImage:"https://framerusercontent.com/assets/UQxfU1IlplfF5dm28qxQX7TOTI.png",title:"Gy\xF6ngy Gora - Designer Portfolio"}}export{e as a};
+//# sourceMappingURL=chunk-AMV37JCW.mjs.map
