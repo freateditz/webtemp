@@ -1,1 +1,0 @@
-chrome-extension://ldcclmkclhomnpcnccgbgleikchbnecl/injection_script.js?ext_base_URL=chrome-extension%3A%2F%2Fldcclmkclhomnpcnccgbgleikchbnecl%2F
